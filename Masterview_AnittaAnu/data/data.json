@@ -1,0 +1,68 @@
+{
+	"bruhathkayosaurus":
+	{
+		"image":"images/image1.jpg",
+		"appeared":-70000000,
+		"height":25,
+		"length":44,
+		"order":"saurischia",
+		"vanished":-70000000,
+		"weight":135000,
+		"description":"Bruhathkayosaurus meaning 'huge bodied lizard') is a dinosaur, with remains found in India, that some researchers claim to have been the largest dinosaur that ever lived. Estimates of size exceed the titanosaur Argentinosaurus, as longer than 35 metres (115 ft) and weighing over 80-100 tons. The accuracy of this claim, however, has been mired in controversy and debate. Until the remains are properly described, the validity of the genus and any size estimates will be questionable."
+	},
+	"lambeosaurus":
+	{
+		"image":"images/image2.jpg",
+		"appeared":-76000000,
+		"height":2.1,
+		"length":12.5,
+		"order":"ornithischia",
+		"vanished":-75000000,
+		"weight":5000,
+		"description":"Lambeosaurus meaning 'Lambes lizard') is a genus of hadrosaurid dinosaur that lived about 75 million years ago, in the Late Cretaceous period (Campanian) of North America. This bipedal/quadrupedal, herbivorous dinosaur is known for its distinctive hollow cranial crest, which in the best-known species resembled a hatchet. Several possible species have been named, from Canada, the United States, and Mexico, but only the two Canadian species are currently recognized as valid."
+	},
+	"linhenykus":
+	{
+		"image":"images/image3.jpg",
+		"appeared":-85000000,
+		"height":0.6,
+		"length":1,
+		"order":"theropoda",
+		"vanished":-75000000,
+		"weight":3,
+		"description":"Linhenykus is an extinct genus of alvarezsaurid theropod dinosaur from the Late Cretaceous of Inner Mongolia, China. It is the most basal known member of the Parvicursorinae. The genus gets its name from Linhe, a city near the site where the fossil was first found and Greek nykus, 'claw'. The specific name is derived from Greek monos, 'single', and daktylos, 'finger', a reference to the fact that it is the only known non-avian dinosaur to have had but a single digit."
+	},
+	"pterodactyl":
+	{
+		"image":"images/image4.jpg",
+		"appeared":-150000000,
+		"height":0.6,
+		"length":0.8,
+		"order":"pterosauria",
+		"vanished":-148500000,
+		"weight":2,
+		"description":"Pterodactylus (meaning 'winged finger') is an extinct flying reptile genus of pterosaurs, whose members are popularly known as pterodactyls .It is currently thought to contain only a single species, Pterodactylus antiquus, the first pterosaur species to be named and identified as a flying reptile.It was a carnivore and probably preyed upon fish and other small animals. Like all pterosaurs, Pterodactylus had wings formed by a skin and muscle membrane stretching from its elongated fourth finger to its hind limbs."
+	},
+	"stegosaurus":
+	{
+		"image":"images/image5.jpg",
+		"appeared":-155000000,
+		"height":4,
+		"length":9,
+		"order":"ornithischia",
+		"vanished":-150000000,
+		"weight":2500,
+		"description":"Stegosaurus is a genus of armored dinosaur. Their fossil bones have been found in rocks dated to the Late Jurassic period (Kimmeridgian to early Tithonian ages), between 155 and 150 million years ago, in the western United States and Portugal. Several species have been classified in the upper Morrison Formation of the western U.S, though only three are universally recognized; S. stenops, S. ungulatus and S. sulcatus."
+	},
+	"triceratops":
+	{
+		"image":"images/image6.jpg",
+		"appeared":-68000000,
+		"height":3,
+		"length":8,
+		"order":"ornithischia",
+		"vanished":-66000000,
+		"weight":11000,
+		"description":"Triceratops is a genus of herbivorous ceratopsid dinosaur that first appeared during the late Maastrichtian stage of the late Cretaceous period, about 68 million years ago (mya) in what is now North America. It is one of the last known non-avian dinosaur genera, and became extinct in the Cretaceous–Paleogene extinction event 66 million years ago.Bearing a large bony frill and three horns on its large four-legged body, and Triceratops is one of the most recognizable of all dinosaurs and the best known ceratopsid."
+	}
+}
